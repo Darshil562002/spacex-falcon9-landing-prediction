@@ -108,27 +108,6 @@ IBM DATA SCIENCE CAPSTONE PROJECT copy/
   - Performed hyperparameter tuning using GridSearchCV
   - Evaluated model performance and selected the best model
 
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd "IBM DATA SCIENCE CAPSTONE PROJECT copy"
-   ```
-
-2. **Install required packages:**
-   ```bash
-   pip install numpy pandas matplotlib seaborn plotly dash folium scikit-learn requests beautifulsoup4 jupyter
-   ```
-
-3. **Launch Jupyter Notebook:**
-   ```bash
-   jupyter notebook
-   ```
-
-4. **Run the notebooks in order:**
-   - Start with `api collection/spacex-data-collection-api.ipynb`
-   - Follow the sequence through each phase
 
 ## Usage
 

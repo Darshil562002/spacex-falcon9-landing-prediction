@@ -46,6 +46,7 @@ IBM DATA SCIENCE CAPSTONE PROJECT copy/
 │
 ├── Interactive Visual Analytics with Folium lab/
 │   ├── lab-jupyter-launch-site-location-v2.ipynb
+│   ├── Interactive Visual Analytics with Folium Lab.html
 │   └── spacex_launch_geo*.csv
 │
 ├── Machine Learning Prediction lab/
@@ -139,6 +140,28 @@ IBM DATA SCIENCE CAPSTONE PROJECT copy/
    - Train multiple models
    - Evaluate and compare model performance
    - Generate predictions
+
+### Viewing the Interactive Folium Map
+
+The project includes an interactive HTML version of the Folium map visualization. To view it:
+
+1. **Option 1: View directly on GitHub**
+   - Navigate to the file: `Interactive Visual Analytics with Folium lab/Interactive Visual Analytics with Folium Lab.html`
+   - Click on the file in GitHub
+   - Click "Download" or "View Raw" to open it in your browser
+
+2. **Option 2: View locally**
+   - Clone the repository or download the HTML file
+   - Open the file `Interactive Visual Analytics with Folium lab/Interactive Visual Analytics with Folium Lab.html` in any web browser
+   - The interactive map will load with all markers and popups functional
+
+3. **Option 3: Generate from notebook**
+   - Open the notebook: `Interactive Visual Analytics with Folium lab/lab-jupyter-launch-site-location-v2.ipynb`
+   - Run all cells to generate the interactive map
+   - Or convert to HTML using:
+     ```bash
+     python3 -m nbconvert --to html "Interactive Visual Analytics with Folium lab/lab-jupyter-launch-site-location-v2.ipynb" --output "Interactive Visual Analytics with Folium Lab.html"
+     ```
 
 ## Results
 

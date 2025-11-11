@@ -192,9 +192,6 @@ The project includes several screenshots of the interactive dashboard:
 6. **lab-jupyter-launch-site-location-v2.ipynb**: Interactive map visualizations
 7. **SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb**: Machine learning model development
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
@@ -215,5 +212,4 @@ This project is part of the IBM Data Science Professional Certificate Capstone P
 
 ---
 
-**Note:** This project is for educational purposes as part of the IBM Data Science Professional Certificate program.
-
+**Note:** This project is for educational purposes as part of the IBM Data Science Professional Certificate program. This project gave me a chance to show off all I learnt during the IBM Data Science professional certifiate.

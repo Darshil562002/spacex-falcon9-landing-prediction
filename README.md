@@ -65,7 +65,7 @@ IBM DATA SCIENCE CAPSTONE PROJECT copy/
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.14**
 - **Jupyter Notebooks**
 - **Libraries:**
   - `pandas` - Data manipulation and analysis
